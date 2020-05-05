@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9,00"
-	Name="Rownania rozniczkowe"
-	ProjectGUID="{7FBF0588-1E1A-419D-97B3-0315A5CD9E37}"
-	RootNamespace="Rownaniarozniczkowe"
+	Name="równania ró¿niczkowe"
+	ProjectGUID="{94ACD976-5B85-4C2E-B320-54ADBD9AB024}"
+	RootNamespace="równaniaró¿niczkowe"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
@@ -185,7 +185,7 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath=".\rk4.h"
+				RelativePath="..\rk4.h"
 				>
 			</File>
 		</Filter>
